@@ -1,5 +1,10 @@
 {
-  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
-  "version": 2,
-  "projects": {}
+    "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+    "version": 2,
+    "projects": {
+        "core": "packages/core",
+        "docs": "apps/docs",
+        "docs-e2e": "apps/docs-e2e",
+        "react": "packages/react"
+    }
 }

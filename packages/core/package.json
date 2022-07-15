@@ -1,0 +1,15 @@
+{
+    "name": "@resax/core",
+    "version": "0.0.1",
+    "type": "commonjs",
+    "devDependencies": {
+        "@types/fs-extra": "^9.0.13",
+        "autoprefixer": "^10.4.7",
+        "cssnano": "^5.1.12",
+        "fs-extra": "^10.1.0",
+        "glob": "^8.0.3",
+        "postcss": "^8.4.14",
+        "sass": "^1.53.0",
+        "tscss": "^0.2.1"
+    }
+}
